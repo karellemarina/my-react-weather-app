@@ -1,10 +1,12 @@
 import "./App.css";
+import Weather from "./Weather.js";
+import "./Weather.css";
 
 export default function App() {
   return (
     <div className="App">
       <div class="container">
-        <h1>Weather App</h1>
+        <Weather />
         <footer>
           This projet was coded by{" "}
           <a href="https://www.shecodes.io/graduates/118933-karelle-bolon">
