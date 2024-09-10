@@ -9,7 +9,10 @@ export default function App() {
         <Weather />
         <footer>
           This projet was coded by{" "}
-          <a href="https://www.shecodes.io/graduates/118933-karelle-bolon">
+          <a
+            href="https://www.shecodes.io/graduates/118933-karelle-bolon"
+            target="_blank"
+          >
             Karelle Bolon
           </a>{" "}
           and is{" "}
