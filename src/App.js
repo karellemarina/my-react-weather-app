@@ -12,6 +12,7 @@ export default function App() {
           <a
             href="https://www.shecodes.io/graduates/118933-karelle-bolon"
             target="_blank"
+            rel="noreferrer"
           >
             Karelle Bolon
           </a>{" "}
@@ -19,6 +20,7 @@ export default function App() {
           <a
             href="https://github.com/karellemarina/my-react-weather-app"
             target="_blank"
+            rel="noreferrer"
           >
             open sourced on GitHub
           </a>
