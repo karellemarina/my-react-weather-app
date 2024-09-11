@@ -23,6 +23,14 @@ export default function App() {
             rel="noreferrer"
           >
             open sourced on GitHub
+          </a>{" "}
+          and in{" "}
+          <a
+            href="https://myreactweather-app.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Netlify
           </a>
         </footer>
       </div>

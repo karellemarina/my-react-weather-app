@@ -35,10 +35,10 @@
 }
 
 .Weather img {
-  height: 64px;
+  height: 50px;
   display: inline-block;
   margin-right: 10px;
-  width: 64px;
+  width: 50px;
 }
 
 .clearfix {
