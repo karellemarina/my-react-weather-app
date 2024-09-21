@@ -35,10 +35,10 @@
 }
 
 .Weather img {
-  height: 50px;
+  height: 64px;
   display: inline-block;
   margin-right: 10px;
-  width: 50px;
+  width: 64px;
 }
 
 .clearfix {
@@ -61,4 +61,8 @@
   top: -32px;
   margin-left: 5px;
   line-height: 1;
+}
+
+.Weather canvas {
+  margin: 10px auto;
 }
